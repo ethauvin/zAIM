@@ -4,10 +4,10 @@ VERSION="0.1"
 
 rm -f *.ipk *.gz *.tar
 
-tar -cvf control.tar ./control
+tar --exclude CVS -cvf control.tar ./control
 gzip control.tar
 
-tar -cvf data.tar ./home
+tar --exclude CVS -cvf data.tar ./home
 gzip data.tar
 
 tar -cvf ${PACKAGE}.tar ./control.tar.gz ./data.tar.gz
