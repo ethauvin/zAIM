@@ -1,7 +1,7 @@
 Package: zAIM
 Installed-Size: 4k
-Filename: ./zAIM_1.0_arm.ipk
-Version: 0.1
+Filename: ./zAIM_0.1.1_arm.ipk
+Version: 0.1.1
 Architecture: Arm
 Maintainer: Erik C. Thauvin <erik@thauvin.net>
 Description: Access to AOL Quick Buddy (AIM) for Zaurus 

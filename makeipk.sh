@@ -1,6 +1,6 @@
 #!/bin/sh
 PACKAGE="zAIM"
-VERSION="0.1"
+VERSION="0.1.1"
 
 rm -f *.ipk *.gz *.tar
 
