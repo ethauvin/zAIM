@@ -1,0 +1,2 @@
+#!/bin/sh
+$QPEDIR/bin/evm -Xprogress:3200 -XappName=$0 -mx10m -appletviewer $QPEDIR/java/zAIM/zAIM.html

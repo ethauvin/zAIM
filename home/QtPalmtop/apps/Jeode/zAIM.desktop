@@ -1,0 +1,6 @@
+[Desktop Entry]
+Comment=Access to AOL Quick Buddy (AIM)
+Exec=run_zAIM
+Icon=zAIM
+Type=Application
+Name=zAIM
